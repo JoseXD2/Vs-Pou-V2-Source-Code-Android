@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "silencio",
+			"speed": 0.1,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "facha",
+			"text": "Hi *sexy face of millionaire philanthropist*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Damn, what eyebrows and what voice!"
+		},
+		{
+			"sound": "silencio",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "facha",
+			"text": "I've never liked to brag, that's why I've held back all this time"
+		},
+		{
+			"sound": "silencio",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "facha",
+			"text": "But it seems that with you I will have no other choice . . ."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What do you mean, pou? Your songs sound like lullabies"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "At the moment, none of them I have felt as a real challenge"
+		},
+		{
+			"sound": "silencio",
+			"speed": 0.1,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "facha",
+			"text": "Hahahah, Oh my little blue friend..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "What will you do? Use 0.00001% of your power?, Hahahaha"
+		},
+		{
+			"sound": "silencio",
+			"speed": 0.1,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "facha",
+			"text": "Don't get me wrong, You're good . . ."
+		},
+		{
+			"sound": "silencio",
+			"speed": 0.2,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "facha",
+			"text": "But Pou is Better B)"
+		}
+	]
+}

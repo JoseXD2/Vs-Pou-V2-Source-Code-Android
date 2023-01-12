@@ -1,0 +1,64 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"no_antialiasing": false,
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "hablando",
+			"idle_offsets": [
+				-164,
+				-120
+			],
+			"idle_name": "hablando0000",
+			"anim": "hablando",
+			"loop_offsets": [
+				-165,
+				-123
+			]
+		},
+		{
+			"loop_name": "facha",
+			"idle_offsets": [
+				-164,
+				-100
+			],
+			"idle_name": "facha0000",
+			"anim": "facha",
+			"loop_offsets": [
+				-165,
+				-103
+			]
+		},
+		{
+			"loop_name": "serio",
+			"idle_offsets": [
+				-164,
+				-110
+			],
+			"idle_name": "serio0000",
+			"anim": "serio",
+			"loop_offsets": [
+				-165,
+				-113
+			]
+		},
+		{
+			"loop_name": "miedo",
+			"idle_offsets": [
+				-164,
+				-113
+			],
+			"idle_name": "miedo0000",
+			"anim": "miedo",
+			"loop_offsets": [
+				-165,
+				-113
+			]
+		}
+	],
+	"image": "poudialogos"
+}

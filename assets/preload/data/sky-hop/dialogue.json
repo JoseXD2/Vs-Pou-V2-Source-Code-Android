@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "hablando",
+			"text": "Hey, well done! , it shows that you have much more experience in this than me"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "hablando",
+			"text": "Do you mind if we take this battle outside while the food is ready?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sounds good to me"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Anyway, I was starting to sweat from the heat in here."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "hablando",
+			"text": "Let's get out of the house after this"
+		}
+	]
+}

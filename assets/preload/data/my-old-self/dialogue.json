@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pouviejo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "mmmmh?"
+		},
+		{
+			"sound": "silencio",
+			"speed": 0.1,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "facha",
+			"text": "Damn, who is that weird and sexy Pou with the supremely enviable eyebrows?"
+		},
+		{
+			"sound": "silencio",
+			"speed": 0.05,
+			"portrait": "pouviejo",
+			"boxState": "normal",
+			"expression": "talking",
+			"text": "Me pican los cocos, AYYYYYY"
+		}
+	]
+}

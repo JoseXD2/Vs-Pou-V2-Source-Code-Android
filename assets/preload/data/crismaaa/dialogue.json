@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "hablando",
+			"text": "Merry Christmas boyfriend!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Pou, Christmas is over"
+		},
+		{
+			"sound": "silencio",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "hablando",
+			"text": ". . ."
+		},
+		{
+			"sound": "silencio",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ". . ."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "serio",
+			"text": "Shit"
+		}
+	]
+}

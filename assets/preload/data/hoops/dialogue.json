@@ -1,0 +1,156 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "What happened?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "Where am I?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "miedo",
+			"text": "Who are you and what are you doing in my house?!!!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou"
+		},
+		{
+			"expression": "shocked",
+			"text": "POU!!??",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": ". . .",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.5,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Pou? . . .",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "bf"
+		},
+		{
+			"expression": "miedo",
+			"text": ". . .",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.5,
+			"portrait": "pou"
+		},
+		{
+			"expression": "hablando",
+			"text": "Oh, a fan! :3",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou"
+		},
+		{
+			"expression": "confused",
+			"text": "I have no idea what's going on but. . .",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "As a good rapper that I'm, I will not waste this opportunity",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "Wanna Rap?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "hablando",
+			"text": "Oh, well . . .",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou"
+		},
+		{
+			"expression": "serio",
+			"text": "I was busy cooking right now you know?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou"
+		},
+		{
+			"expression": "confused",
+			"text": "Oh, come on . . .",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "hablando",
+			"text": "It will only be a few songs, it's not very complicated",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "hablando",
+			"text": "Mmmh, I'm good at repeating the things you tell me into the microphone",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou"
+		},
+		{
+			"expression": "hablando",
+			"text": "Rapping shouldn't be much different than that",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou"
+		},
+		{
+			"expression": "hablando",
+			"text": "Ok, I'll try, but I don't promise to be very good",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou"
+		},
+		{
+			"expression": "pissed",
+			"text": "That's what i was talking about",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

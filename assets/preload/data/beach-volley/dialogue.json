@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What a nice and warm place"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "hablando",
+			"text": "My hamster named \"EsoTilin\", likes to play volleyball a lot when he comes to this place"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "hablando",
+			"text": "So . . . Maybe he'll throw you a volley ball once in a while."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I don't know that hamster but I have a feeling I'm going to hate him too much..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "serio",
+			"text": "Oh believe me, he never fails . . ."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "hablando",
+			"text": "Just try not to get hit on the head with the ball by responding with the \"spacebar\""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Here I go hamster with aimbot!"
+		}
+	]
+}

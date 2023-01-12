@@ -1,0 +1,164 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Not bad, not bad, you rap very well pou!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "hablando",
+			"text": "Oh, the food is ready!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I've given myself the freedom to bring the food to this place"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "A question . . ."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Who are those two kids in the background?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "hablando",
+			"text": "Oh, they are Kelly and Elie"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "hablando",
+			"text": "They belong to another mod that I created called: \"Kelly & Elie | Halloween Special\""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "hablando",
+			"text": "You can download it on gamebanana, I would like you to give it a try!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Damn Leunam, taking any opportunity to spam his other mods"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "Pou",
+			"boxState": "normal",
+			"expression": "serio",
+			"text": "By the way, back to the point . . ."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "hablando",
+			"text": "I've brought them to help me throw the food at you"
+		},
+		{
+			"sound": "",
+			"speed": 0.4,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What? . . ."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "serio",
+			"text": "You're very good at rapping, there's no doubt about that . . ."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "facha",
+			"text": "But let's see if your reflexes are just as good"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Ahg man, here I thought you brought me here for a picnic"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "hablando",
+			"text": "Just don't eat the shoe"
+		},
+		{
+			"sound": "",
+			"speed": 0.5,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ". . ."
+		},
+		{
+			"sound": "",
+			"speed": 0.5,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "hablando",
+			"text": ". . ."
+		},
+		{
+			"sound": "",
+			"speed": 0.5,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ". . ."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "serio",
+			"text": "Seriously, don't do it"
+		}
+	]
+}

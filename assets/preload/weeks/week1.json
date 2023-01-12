@@ -1,0 +1,86 @@
+{
+	"storyName": "My alien pet",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Hoops",
+			"mom",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Sky hop",
+			"mom",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Sky Jump",
+			"mom",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Food Drop",
+			"mom",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Memory",
+			"spooky",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Hill Drive",
+			"mom",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Beach Volley",
+			"mom",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "week1"
+}

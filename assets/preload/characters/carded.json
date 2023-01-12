@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				350
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "firstDeath",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				329,
+				-92
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "deathConfirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				-94
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "deathLoop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/carded",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "hev-bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		600,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

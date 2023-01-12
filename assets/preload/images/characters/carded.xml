@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="carded.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="deathConfirm instancia 10000" x="15" y="15" width="667" height="339" frameX="0" frameY="0" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10001" x="697" y="15" width="721" height="339" frameX="0" frameY="0" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10002" x="1433" y="15" width="721" height="326" frameX="0" frameY="-13" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10003" x="2169" y="15" width="721" height="326" frameX="0" frameY="-13" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10004" x="2905" y="15" width="721" height="339" frameX="0" frameY="0" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10005" x="3641" y="15" width="721" height="339" frameX="0" frameY="0" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10006" x="4377" y="15" width="721" height="326" frameX="0" frameY="-13" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10007" x="5113" y="15" width="721" height="326" frameX="0" frameY="-13" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10008" x="5849" y="15" width="721" height="339" frameX="0" frameY="0" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10009" x="6585" y="15" width="721" height="339" frameX="0" frameY="0" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10010" x="7321" y="15" width="721" height="326" frameX="0" frameY="-13" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10011" x="15" y="369" width="721" height="326" frameX="0" frameY="-13" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10012" x="751" y="369" width="722" height="339" frameX="0" frameY="0" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10013" x="1488" y="369" width="724" height="339" frameX="0" frameY="0" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10014" x="2227" y="369" width="727" height="326" frameX="0" frameY="-13" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10015" x="2969" y="369" width="729" height="326" frameX="0" frameY="-13" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10016" x="3713" y="369" width="732" height="337" frameX="0" frameY="-2" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10017" x="4460" y="369" width="733" height="337" frameX="0" frameY="-2" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10018" x="5208" y="369" width="735" height="326" frameX="0" frameY="-13" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10019" x="5958" y="369" width="737" height="326" frameX="0" frameY="-13" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10020" x="6710" y="369" width="738" height="339" frameX="0" frameY="0" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10021" x="15" y="723" width="739" height="339" frameX="0" frameY="0" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10022" x="769" y="723" width="740" height="326" frameX="0" frameY="-13" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10023" x="1524" y="723" width="740" height="326" frameX="0" frameY="-13" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10024" x="2279" y="723" width="741" height="339"/>
+	<SubTexture name="deathConfirm instancia 10025" x="3035" y="723" width="741" height="339"/>
+	<SubTexture name="deathConfirm instancia 10026" x="3791" y="723" width="741" height="326" frameX="0" frameY="-13" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10027" x="3791" y="723" width="741" height="326" frameX="0" frameY="-13" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10028" x="4547" y="723" width="741" height="339"/>
+	<SubTexture name="deathConfirm instancia 10029" x="4547" y="723" width="741" height="339"/>
+	<SubTexture name="deathConfirm instancia 10030" x="5303" y="723" width="741" height="326" frameX="0" frameY="-13" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10031" x="5303" y="723" width="741" height="326" frameX="0" frameY="-13" frameWidth="741" frameHeight="339"/>
+	<SubTexture name="deathConfirm instancia 10032" x="3035" y="723" width="741" height="339"/>
+	<SubTexture name="deathConfirm instancia 10033" x="3035" y="723" width="741" height="339"/>
+	<SubTexture name="deathLoop instancia 10000" x="6059" y="723" width="668" height="338"/>
+	<SubTexture name="deathLoop instancia 10001" x="6742" y="723" width="668" height="338"/>
+	<SubTexture name="deathLoop instancia 10002" x="7425" y="723" width="668" height="327" frameX="0" frameY="-11" frameWidth="668" frameHeight="338"/>
+	<SubTexture name="deathLoop instancia 10003" x="15" y="1077" width="668" height="327" frameX="0" frameY="-11" frameWidth="668" frameHeight="338"/>
+	<SubTexture name="deathLoop instancia 10004" x="698" y="1077" width="668" height="338"/>
+	<SubTexture name="deathLoop instancia 10005" x="1381" y="1077" width="668" height="338"/>
+	<SubTexture name="deathLoop instancia 10006" x="2064" y="1077" width="668" height="327" frameX="0" frameY="-11" frameWidth="668" frameHeight="338"/>
+	<SubTexture name="deathLoop instancia 10007" x="2747" y="1077" width="668" height="327" frameX="0" frameY="-11" frameWidth="668" frameHeight="338"/>
+	<SubTexture name="deathLoop instancia 10008" x="3430" y="1077" width="668" height="338"/>
+	<SubTexture name="deathLoop instancia 10009" x="3430" y="1077" width="668" height="338"/>
+	<SubTexture name="deathLoop instancia 10010" x="4113" y="1077" width="668" height="327" frameX="0" frameY="-11" frameWidth="668" frameHeight="338"/>
+	<SubTexture name="deathLoop instancia 10011" x="4113" y="1077" width="668" height="327" frameX="0" frameY="-11" frameWidth="668" frameHeight="338"/>
+	<SubTexture name="deathLoop instancia 10012" x="4796" y="1077" width="668" height="338"/>
+	<SubTexture name="deathLoop instancia 10013" x="4796" y="1077" width="668" height="338"/>
+	<SubTexture name="deathLoop instancia 10014" x="5479" y="1077" width="668" height="327" frameX="0" frameY="-11" frameWidth="668" frameHeight="338"/>
+	<SubTexture name="deathLoop instancia 10015" x="5479" y="1077" width="668" height="327" frameX="0" frameY="-11" frameWidth="668" frameHeight="338"/>
+	<SubTexture name="deathLoop instancia 10016" x="6162" y="1077" width="668" height="337" frameX="0" frameY="-1" frameWidth="668" frameHeight="338"/>
+	<SubTexture name="deathLoop instancia 10017" x="6845" y="1077" width="668" height="337" frameX="0" frameY="-1" frameWidth="668" frameHeight="338"/>
+	<SubTexture name="deathLoop instancia 10018" x="7425" y="723" width="668" height="327" frameX="0" frameY="-11" frameWidth="668" frameHeight="338"/>
+	<SubTexture name="deathLoop instancia 10019" x="7425" y="723" width="668" height="327" frameX="0" frameY="-11" frameWidth="668" frameHeight="338"/>
+	<SubTexture name="deathLoop instancia 10020" x="698" y="1077" width="668" height="338"/>
+	<SubTexture name="deathLoop instancia 10021" x="698" y="1077" width="668" height="338"/>
+	<SubTexture name="deathLoop instancia 10022" x="2064" y="1077" width="668" height="327" frameX="0" frameY="-11" frameWidth="668" frameHeight="338"/>
+	<SubTexture name="deathLoop instancia 10023" x="2064" y="1077" width="668" height="327" frameX="0" frameY="-11" frameWidth="668" frameHeight="338"/>
+	<SubTexture name="deathLoop instancia 10024" x="3430" y="1077" width="668" height="338"/>
+	<SubTexture name="deathLoop instancia 10025" x="3430" y="1077" width="668" height="338"/>
+	<SubTexture name="deathLoop instancia 10026" x="15" y="1430" width="668" height="327" frameX="0" frameY="-11" frameWidth="668" frameHeight="338"/>
+	<SubTexture name="deathLoop instancia 10027" x="15" y="1430" width="668" height="327" frameX="0" frameY="-11" frameWidth="668" frameHeight="338"/>
+	<SubTexture name="deathLoop instancia 10028" x="698" y="1430" width="668" height="338"/>
+	<SubTexture name="deathLoop instancia 10029" x="698" y="1430" width="668" height="338"/>
+	<SubTexture name="deathLoop instancia 10030" x="2747" y="1077" width="668" height="327" frameX="0" frameY="-11" frameWidth="668" frameHeight="338"/>
+	<SubTexture name="deathLoop instancia 10031" x="2747" y="1077" width="668" height="327" frameX="0" frameY="-11" frameWidth="668" frameHeight="338"/>
+	<SubTexture name="deathLoop instancia 10032" x="3430" y="1077" width="668" height="338"/>
+	<SubTexture name="deathLoop instancia 10033" x="3430" y="1077" width="668" height="338"/>
+	<SubTexture name="firstDeath instancia 10000" x="1381" y="1430" width="580" height="323" frameX="-861" frameY="-367" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10001" x="1976" y="1430" width="589" height="335" frameX="-822" frameY="-364" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10002" x="2580" y="1430" width="615" height="376" frameX="-776" frameY="-336" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10003" x="3210" y="1430" width="639" height="447" frameX="-720" frameY="-278" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10004" x="3864" y="1430" width="653" height="527" frameX="-655" frameY="-194" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10005" x="4532" y="1430" width="643" height="596" frameX="-573" frameY="-116" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10006" x="5190" y="1430" width="619" height="628" frameX="-532" frameY="-55" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10007" x="5824" y="1430" width="499" height="639" frameX="-483" frameY="0" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10008" x="6338" y="1430" width="609" height="638" frameX="-324" frameY="-50" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10009" x="6962" y="1430" width="744" height="643" frameX="-172" frameY="-119" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10010" x="15" y="2088" width="769" height="582" frameX="-91" frameY="-221" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10011" x="799" y="2088" width="789" height="447" frameX="-62" frameY="-372" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10012" x="1603" y="2088" width="791" height="351" frameX="-60" frameY="-431" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10013" x="2409" y="2088" width="829" height="371" frameX="-21" frameY="-416" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10014" x="3253" y="2088" width="830" height="342" frameX="-14" frameY="-435" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10015" x="4098" y="2088" width="789" height="337" frameX="0" frameY="-444" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10016" x="4902" y="2088" width="737" height="326" frameX="0" frameY="-455" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10017" x="5654" y="2088" width="709" height="326" frameX="0" frameY="-455" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10018" x="6378" y="2088" width="669" height="339" frameX="0" frameY="-442" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10019" x="7062" y="2088" width="660" height="339" frameX="0" frameY="-442" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10020" x="15" y="2685" width="667" height="326" frameX="0" frameY="-455" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10021" x="697" y="2685" width="668" height="326" frameX="0" frameY="-455" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10022" x="1380" y="2685" width="668" height="339" frameX="0" frameY="-442" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10023" x="1380" y="2685" width="668" height="339" frameX="0" frameY="-442" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10024" x="2063" y="2685" width="668" height="326" frameX="0" frameY="-455" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10025" x="2063" y="2685" width="668" height="326" frameX="0" frameY="-455" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10026" x="2746" y="2685" width="668" height="339" frameX="0" frameY="-442" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10027" x="2746" y="2685" width="668" height="339" frameX="0" frameY="-442" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10028" x="697" y="2685" width="668" height="326" frameX="0" frameY="-455" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10029" x="697" y="2685" width="668" height="326" frameX="0" frameY="-455" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10030" x="1380" y="2685" width="668" height="339" frameX="0" frameY="-442" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10031" x="1380" y="2685" width="668" height="339" frameX="0" frameY="-442" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10032" x="3429" y="2685" width="668" height="326" frameX="0" frameY="-455" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10033" x="3429" y="2685" width="668" height="326" frameX="0" frameY="-455" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10034" x="4112" y="2685" width="668" height="339" frameX="0" frameY="-442" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10035" x="4112" y="2685" width="668" height="339" frameX="0" frameY="-442" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10036" x="4795" y="2685" width="668" height="326" frameX="0" frameY="-455" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10037" x="4795" y="2685" width="668" height="326" frameX="0" frameY="-455" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10038" x="5478" y="2685" width="668" height="337" frameX="0" frameY="-444" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10039" x="6161" y="2685" width="668" height="337" frameX="0" frameY="-444" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10040" x="2063" y="2685" width="668" height="326" frameX="0" frameY="-455" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10041" x="2063" y="2685" width="668" height="326" frameX="0" frameY="-455" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10042" x="2746" y="2685" width="668" height="339" frameX="0" frameY="-442" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10043" x="2746" y="2685" width="668" height="339" frameX="0" frameY="-442" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10044" x="697" y="2685" width="668" height="326" frameX="0" frameY="-455" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10045" x="697" y="2685" width="668" height="326" frameX="0" frameY="-455" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10046" x="1380" y="2685" width="668" height="339" frameX="0" frameY="-442" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10047" x="1380" y="2685" width="668" height="339" frameX="0" frameY="-442" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10048" x="2063" y="2685" width="668" height="326" frameX="0" frameY="-455" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10049" x="2063" y="2685" width="668" height="326" frameX="0" frameY="-455" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10050" x="2746" y="2685" width="668" height="339" frameX="0" frameY="-442" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10051" x="2746" y="2685" width="668" height="339" frameX="0" frameY="-442" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10052" x="697" y="2685" width="668" height="326" frameX="0" frameY="-455" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10053" x="697" y="2685" width="668" height="326" frameX="0" frameY="-455" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10054" x="1380" y="2685" width="668" height="339" frameX="0" frameY="-442" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10055" x="1380" y="2685" width="668" height="339" frameX="0" frameY="-442" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10056" x="3429" y="2685" width="668" height="326" frameX="0" frameY="-455" frameWidth="1441" frameHeight="819"/>
+	<SubTexture name="firstDeath instancia 10057" x="3429" y="2685" width="668" height="326" frameX="0" frameY="-455" frameWidth="1441" frameHeight="819"/>
+</TextureAtlas>

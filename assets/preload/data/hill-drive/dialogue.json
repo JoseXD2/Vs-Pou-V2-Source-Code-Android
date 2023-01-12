@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "facha",
+			"text": "I admit it, you may be slightly good like me... not the same, of course"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "hablando",
+			"text": "We are going at this moment to the beach, to rest and have fun for a while :3"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "hablando",
+			"text": "It's a bit far, so that's why we're going on car"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Is there still a long way to go to get to the beach? I'm not a very good driver"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "hablando",
+			"text": "Oh, if you want we can rap while we arrive, to lower your nerves a bit"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "*beep boop* ( \"Happy\" in BF)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pou",
+			"boxState": "normal",
+			"expression": "serio",
+			"text": "Just watch out for some potholes and rocks along the road"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "*beep boop?* ( \"Fear\" in BF)"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pouviejo.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="talk0000" x="15" y="15" width="289" height="289" frameX="-6" frameY="0" frameWidth="321" frameHeight="321"/>
+	<SubTexture name="talk0001" x="319" y="15" width="321" height="321"/>
+	<SubTexture name="talk0002" x="319" y="15" width="321" height="321"/>
+	<SubTexture name="talk0003" x="655" y="15" width="289" height="289" frameX="-6" frameY="0" frameWidth="321" frameHeight="321"/>
+	<SubTexture name="talk0004" x="655" y="15" width="289" height="289" frameX="-6" frameY="0" frameWidth="321" frameHeight="321"/>
+	<SubTexture name="talk0005" x="319" y="15" width="321" height="321"/>
+	<SubTexture name="talk0006" x="319" y="15" width="321" height="321"/>
+	<SubTexture name="talk0007" x="655" y="15" width="289" height="289" frameX="-6" frameY="0" frameWidth="321" frameHeight="321"/>
+	<SubTexture name="talk0008" x="655" y="15" width="289" height="289" frameX="-6" frameY="0" frameWidth="321" frameHeight="321"/>
+</TextureAtlas>

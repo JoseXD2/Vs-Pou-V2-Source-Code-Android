@@ -1,0 +1,32 @@
+{
+	"storyName": "crismaaa",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "pixelnavidad",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"crismaaa",
+			"poupixel",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"poupixel",
+		"bfpixel",
+		"gf-pixel"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "crismaaa"
+}
