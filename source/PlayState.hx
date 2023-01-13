@@ -1216,10 +1216,6 @@ class PlayState extends MusicBeatState
 		eventPushedMap.clear();
 		eventPushedMap = null;
 	
-	        #if android
-		addAndroidControls();
-		#end
-
 		// SONG SPECIFIC SCRIPTS
     #if (LUA_ALLOWED)
 		var doPush:Bool = false;
