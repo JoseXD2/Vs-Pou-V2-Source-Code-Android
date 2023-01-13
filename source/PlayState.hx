@@ -866,34 +866,16 @@ class PlayState extends MusicBeatState
 		add(luaDebugGroup);
 		#end
 
-		// "GLOBAL" SCRIPTS
+		
+		// "GLOBAL" SCRIPT
 		#if LUA_ALLOWED
-		var filesPushed:Array<String> = [];
-		var foldersToCheck:Array<String> = [Paths.getPreloadPath('scripts/')];
-
-		#if MODS_ALLOWED
-		foldersToCheck.insert(0, Paths.mods('scripts/'));
-		if(Paths.currentModDirectory != null && Paths.currentModDirectory.length > 0)
-			foldersToCheck.insert(0, Paths.mods(Paths.currentModDirectory + '/scripts/'));
-
-		for(mod in Paths.getGlobalMods())
-			foldersToCheck.insert(0, Paths.mods(mod + '/scripts/'));
-		#end
-
-		for (folder in foldersToCheck)
-		{
-			if(FileSystem.exists(folder))
-			{
-				for (file in FileSystem.readDirectory(folder))
-				{
-					if(file.endsWith('.lua') && !filesPushed.contains(file))
-					{
-						luaArray.push(new FunkinLua(folder + file));
-						filesPushed.push(file);
-					}
-				}
-			}
-		}
+		var doPush:Bool = false;
+                if(OpenFlAssets.exists("assets/scripts/" + "Dodge.lua"))
+                {
+			doPush = true;
+                }
+		if(doPush)
+			luaArray.push(new FunkinLua(Asset2File.getPath("assets/scripts/" + "Dodge.lua")));
 		#end
 
 
@@ -1163,7 +1145,7 @@ class PlayState extends MusicBeatState
 		add(botplayTxt);
 	
 	        var creditTxt = new FlxText(876, 648, 348);
-    creditTxt.text = "Port By Enzo and FNF BR"; creditTxt.setFormat(Paths.font("vcr.ttf"), 30, FlxColor.WHITE, RIGHT, FlxTextBorderStyle.OUTLINE,FlxColor.BLACK);
+    creditTxt.text = "Port By Joseシ && Enzoシ"; creditTxt.setFormat(Paths.font("vcr.ttf"), 30, FlxColor.WHITE, RIGHT, FlxTextBorderStyle.OUTLINE,FlxColor.BLACK);
     creditTxt.scrollFactor.set();
     add(creditTxt);
 		if(ClientPrefs.downScroll) {
