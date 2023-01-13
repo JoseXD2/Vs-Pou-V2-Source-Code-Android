@@ -32,7 +32,7 @@ function onEvent(name, value1, value2)
 end
 
 function onUpdate()
-   if canDodge == true and keyJustPressed('space') then
+   if  (getMouseX('camHUD') > 1150 and getMouseX('camHUD') < 1280) and (getMouseY('camHUD') > 582.5 and getMouseY('camHUD') < 720 and mousePressed('left')) or keyPressed('space') then
    
    Dodged = true;
    playSound('roca', 100);
