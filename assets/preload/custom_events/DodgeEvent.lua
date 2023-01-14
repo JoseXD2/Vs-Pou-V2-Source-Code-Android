@@ -10,7 +10,7 @@ function onCreate()
 end
 
 function onEvent(name, value1, value2)
-    if name == "DodgeEvent" and mechanics then
+    if name == "DodgeEvent" then
     --Get Dodge time
     DodgeTime = (value1);
 	
